@@ -1,0 +1,9 @@
+{
+  "name": "English Card Generator",
+  "description": "English Card Generator",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
